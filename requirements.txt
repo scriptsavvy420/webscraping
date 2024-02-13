@@ -1,0 +1,8 @@
+slackweb
+jaconv
+selenium
+bs4
+schedule
+webdriver_manager
+openai
+win10toast_click
